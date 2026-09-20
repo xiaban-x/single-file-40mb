@@ -1,0 +1,7 @@
+{
+  "name": "single-file-40mb",
+  "private": true,
+  "scripts": {
+    "build": "node ./scripts/build.mjs"
+  }
+}
